@@ -28,3 +28,18 @@
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.pdb
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.genruntimeconfig.cache
 /Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/ref/8 - Guess It.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\bin\Debug\net6.0\8 - Guess It.exe
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\bin\Debug\net6.0\8 - Guess It.deps.json
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\bin\Debug\net6.0\8 - Guess It.runtimeconfig.json
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\bin\Debug\net6.0\8 - Guess It.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\bin\Debug\net6.0\8 - Guess It.pdb
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.csproj.AssemblyReference.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.AssemblyInfoInputs.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.AssemblyInfo.cs
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.csproj.CoreCompileInputs.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\refint\8 - Guess It.dll
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.pdb
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\8 - Guess It.genruntimeconfig.cache
+C:\Users\petec\OneDrive\Documents\GitRepository\OrtegaUMiniChallenge8\obj\Debug\net6.0\ref\8 - Guess It.dll

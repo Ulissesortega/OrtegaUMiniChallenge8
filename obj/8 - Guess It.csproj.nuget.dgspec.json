@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/8 - Guess It.csproj": {}
+    "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\OrtegaUMiniChallenge8\\8 - Guess It.csproj": {}
   },
   "projects": {
-    "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/8 - Guess It.csproj": {
+    "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\OrtegaUMiniChallenge8\\8 - Guess It.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/8 - Guess It.csproj",
+        "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\OrtegaUMiniChallenge8\\8 - Guess It.csproj",
         "projectName": "8 - Guess It",
-        "projectPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/8 - Guess It.csproj",
-        "packagesPath": "/Users/ulisesortega/.nuget/packages/",
-        "outputPath": "/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/",
+        "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\OrtegaUMiniChallenge8\\8 - Guess It.csproj",
+        "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\OrtegaUMiniChallenge8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/ulisesortega/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

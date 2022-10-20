@@ -7,6 +7,6 @@
 //once the number has been guessed the program is completed
 //after completed, It will ask the user to run the program again Yes or No with data validatation for Yes and No only.
 
-Reviewer Name:
+Reviewer Name: Pedro Castaneda
 
-Reviewer Comments:
+Reviewer Comments: Your Guess It program runs great! I did not run into any issues and your validation is on point! I liked the main menu layout.
