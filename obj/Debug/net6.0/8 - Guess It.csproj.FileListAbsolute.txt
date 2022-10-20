@@ -1,0 +1,30 @@
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/bin/Debug/net6.0/8 - Guess It
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/bin/Debug/net6.0/8 - Guess It.deps.json
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/bin/Debug/net6.0/8 - Guess It.runtimeconfig.json
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/bin/Debug/net6.0/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/bin/Debug/net6.0/8 - Guess It.pdb
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/refint/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.pdb
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/8 - Guess It.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Homework/8 - Guess It/obj/Debug/net6.0/ref/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/bin/Debug/net6.0/8 - Guess It
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/bin/Debug/net6.0/8 - Guess It.deps.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/bin/Debug/net6.0/8 - Guess It.runtimeconfig.json
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/bin/Debug/net6.0/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/bin/Debug/net6.0/8 - Guess It.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.csproj.AssemblyReference.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.AssemblyInfoInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.AssemblyInfo.cs
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.csproj.CoreCompileInputs.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/refint/8 - Guess It.dll
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.pdb
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/8 - Guess It.genruntimeconfig.cache
+/Users/ulisesortega/Desktop/Data Validation - Play Again/OrtegaUMiniChallenge8/obj/Debug/net6.0/ref/8 - Guess It.dll
